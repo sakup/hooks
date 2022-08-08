@@ -1,5 +1,7 @@
 rules = """
 # Rules for great Commit message
 
-# 1,2,3
+# 1 - First Rule
+# 2
+# 3
 """
