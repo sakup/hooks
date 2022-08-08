@@ -8,6 +8,7 @@ def main():
 
         for line in lines:
             print(line)
+            print("---\\---")
 
 if __name__ == "__main__":
     main()
