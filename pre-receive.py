@@ -4,5 +4,7 @@ import sys
 from time import time
 
 line = sys.stdin.read()
-print(line)
-print(time)
+(base, commit, ref) = line.strip().split()
+print("Base - " + base)
+print("Commit - " + commit)
+print("Ref - " + ref)
